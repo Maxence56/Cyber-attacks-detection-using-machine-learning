@@ -11,11 +11,11 @@ Permet de réaliser le preprocessing nécessaire sur les fichiers du dataset, de
 Permet d'entraîner et de tester différents algorithmes de classification sur le dataset: 
 
 - Logistic Regression
-- Support vector machine
+- Support Vector Machine
 - Decision Tree
 - Decision Forest
 - Naive Bayes
-- K-nearest neighbors
+- K-nearest Neighbors
 
 Permet de réaliser la méthode d'Elbow sur le dataset afin de déterminer le nombre de classes à l'aide de l'algorithme k-means
 
